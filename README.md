@@ -83,7 +83,7 @@ Here are a few examples:
 
 * **Personal customizations** &mdash; Have every system come up running with your own customizations such as your favorite .bashrc and any other files that you always want on your system
 
-* **Append Custom fstab file to /etc/fstab** &mdash; Automatically append your site-specific fstab entries to /etc/fstab
+* **[Append Custom fstab file to /etc/fstab](https://github.com/gitbls/sdm/wiki/fstab)** &mdash; Automatically append your site-specific fstab entries to /etc/fstab
 
 * **systemd service configuration and management** &mdash; If there are services that you always enable or disable, you can easily configure them with sdm
 
